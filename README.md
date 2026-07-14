@@ -36,7 +36,18 @@ FastAPI 기반 백엔드부터 AI 모델을 활용한 서비스까지 폭넓게 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+**🔬 Engineering / CAE**
+
+![ANSYS Fluent](https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=flat-square&logo=ansys&logoColor=black)
+
 ## 📌 프로젝트
+
+### [heated-cylinder-mixed-convection-fluent](https://github.com/jaebeombag638-cyber/heated-cylinder-mixed-convection-fluent) (2025.09 ~ 2025.12)
+가열된 원형 실린더 주위 2차원 혼합대류 수치해석 — ANSYS Fluent 기반 학사 학위논문 CFD 프로젝트
+- Tech: ANSYS Fluent, Boussinesq Approximation
+- 2D 직사각 채널 내 가열 실린더 주위 정상 층류 혼합대류를 Fluent로 해석, Boussinesq 근사로 부력 반영
+- 속도 벡터장 분석으로 실린더 후류 재순환, 부력에 의한 상승 가속류, 출구 상단의 혼합대류 상향 수송 특성 확인
+- 정상 해석의 한계(비정상 와류 탈락 미포착, 격자 독립성 미검증)를 명시하고 후속 비정상 해석 방향 제시
 
 ### [hyEOnjuNg0-0/buildback](https://github.com/hyEOnjuNg0-0/buildback) 🔒 Private
 - Frontend: TypeScript, React, Vite, Tailwind CSS
