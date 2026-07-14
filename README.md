@@ -39,7 +39,6 @@ FastAPI 기반 백엔드부터 AI 모델을 활용한 서비스까지 폭넓게 
 ## 📌 프로젝트
 
 ### [hyEOnjuNg0-0/buildback](https://github.com/hyEOnjuNg0-0/buildback) 🔒 Private
-현재 진행 중인 가장 규모가 큰 팀 프로젝트 — React + FastAPI 풀스택 서비스
 - Frontend: TypeScript, React, Vite, Tailwind CSS
 - Backend: FastAPI, SQLAlchemy, Alembic, PostgreSQL(pgvector), Redis
 - IBM watsonx.ai 기반 LLM/임베딩 검색, Google OAuth 소셜 로그인, 프로모션·알림 기능
